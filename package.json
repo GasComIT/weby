@@ -1,7 +1,7 @@
 {
   "name": "gascomit",
   "version": "1.0.0",
-  "description": "Professional web designers",
+  "description": "Professional AI projects and web designs",
   "main": "index.js",
   "dependencies": {
     "accepts": "^1.3.8",
@@ -57,9 +57,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["GasCom" , "Gascom IT" , "Web design" , "web hosting" , "Web management"],
+  "keywords": ["GasCom" , "Gascom IT" , "Qtell" , "Web design" , "web hosting" , "Web management"],
   "author": "Mr. Benson",
-  "license": "ISC"
+  "license": "MIT"
 }
 
 
